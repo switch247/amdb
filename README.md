@@ -56,12 +56,10 @@ This project is a web application that fetches anime data using the Jikan API. I
 - JavaScript (ES6+)
 ## Screenshots
 
-<img src="/public/screenshot/amdb.png" alt="" />
-<img src="public/screenshot/amdb2.png" alt="" />
-<img src="public/screenshot/amdb3.png" alt="" />
-<img src="public/screenshot/amdb4.png" alt="" />
-
-
+![Screenshot](public/screenshot/amdb.png)
+![Screenshot](/public/screenshot/amdb2.png)
+![Screenshot](/public/screenshot/amdb3.png)
+![Screenshot](/public/screenshot/amdb4.png)
 
 
 ## Contributing
